@@ -1,7 +1,7 @@
 # HackTool All 
 
 <div align="center">
-  <a href="https://github.com/mastertgtool/HACKINGTGA.git">
+  <a href="https://github.com/mastertgtool/HackingTool.git">
     <img src="./Master.png" alt="Logo" >
   </a>
 
@@ -10,10 +10,10 @@
 pkg install git
 ```
 ```sh
-git clone https://github.com/mastertgtool/HACKINGTGA1.git
+git clone https://github.com/mastertgtool/HackingTool.git
 ```
 ```sh
-cd HACKINGTGA1
+cd HackingTool
 ```
 ```sh
 bash tga1.sh
