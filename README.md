@@ -1,7 +1,4 @@
-# HackTool All 
-
-<div align="center">
-  <a href="https://github.com/mastertgtool/HackingTool.git">
+https://github.com/mastertgtool/HackingTool.git`shhttps:/https://github.com/mastertgtool/HackingTool.git">
     <img src="./Master.png" alt="Logo" >
   </a>
 
@@ -16,7 +13,7 @@ git clone https://github.com/mastertgtool/HackingTool.git
 cd HackingTool
 ```
 ```sh
-bash tga1.sh
+bash ALL.sh
 ```
  
 # Tools I Use
