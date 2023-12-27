@@ -1,6 +1,6 @@
 ## HACKING_Version2
 
-    <img src="https://github.com/mastertgtool/HackingTool.git./Master.png" alt="Logo" >
+    <img src="https://github.com/mastertgtool/HackingTool.git/Master.png" alt="Logo" >
   </a>
 
 # How to Install
